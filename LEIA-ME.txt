@@ -1,0 +1,40 @@
+NOSSO CONTROLE – pacote instalável (PWA)
+
+O que está incluído:
+- Novembro e dezembro de 2026 com as despesas informadas.
+- Entradas de novembro informadas na conversa.
+- Controle de contas pagas/pendentes.
+- Inclusão, edição e exclusão de despesas e entradas.
+- Resumo por dia 05, 20 e 30.
+- Armazenamento local no aparelho, exportação e importação de backup.
+
+IMPORTANTE:
+Este pacote é um aplicativo web instalável (PWA), não um APK nem um IPA assinado.
+Para instalar no iPhone e no tablet Samsung, primeiro publique os arquivos em um endereço HTTPS.
+O ZIP sozinho, aberto como arquivo local, não instala o aplicativo.
+Os dados ficam armazenados separadamente em cada aparelho. Para compartilhar alterações, use Exportar e depois Importar o arquivo JSON no outro aparelho. Sincronização automática na nuvem ainda não está configurada.
+
+Como publicar gratuitamente:
+1. Extraia o ZIP.
+2. Crie uma conta no GitHub e um repositório público chamado nosso-controle.
+3. Envie todos os arquivos desta pasta para a raiz do repositório.
+4. Em Settings > Pages, escolha Deploy from a branch, selecione main e /(root), e salve.
+5. Aguarde a URL HTTPS do GitHub Pages.
+
+Instalar no iPhone:
+1. Abra a URL publicada no Safari.
+2. Toque em Compartilhar > Adicionar à Tela de Início.
+3. Confirme em Adicionar.
+
+Instalar no Samsung Galaxy Tab S10 Lite:
+1. Abra a URL no Chrome.
+2. Toque no menu ⋮ > Instalar app (ou Adicionar à tela inicial).
+3. Confirme.
+
+Backup e transferência:
+- No aparelho de origem, toque em Exportar para baixar o arquivo JSON.
+- Transfira esse arquivo para o outro aparelho.
+- No aparelho de destino, toque em Importar e selecione o arquivo JSON.
+
+Observação:
+O 13º de novembro está cadastrado como R$ 729,17 estimados, conforme simulação anterior. Confirme o valor no holerite e edite a entrada, se necessário.
